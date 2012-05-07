@@ -1,0 +1,19 @@
+.pf-cross-promos-header {
+    overflow: hidden;
+    position: relative;
+    width: 760px;
+    margin: auto;
+}
+
+.pf-cross-promos-header {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    height: 78px;
+}
+
+.pf-cross-promos-header .slot-container {
+    float: left;
+    margin-top: 6px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
